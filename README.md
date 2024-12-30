@@ -1,6 +1,6 @@
-### NAME : JAYASURYA B
-### REG NO : 24001758
-### EXPERIMENT :5 JK_flipflop 
+# NAME : JAYASURYA B
+# REG NO : 24001758
+# EXPERIMENT :5 JK_flipflop 
 
 # AIM: 
 
